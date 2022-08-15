@@ -30,7 +30,7 @@ void main() {
   print(tidaksmd);
 
   //3.assignment (=, -=, +=, *=, /=)
-  int angka = 2;
+  double angka = 2;
   // angka -= 1; //angka = angka - 1
   //  angka += 1; //angka = angka + 1
   //   angka *= 2; //angka = angka * 1
